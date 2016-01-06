@@ -1,0 +1,19 @@
+h2.intro {
+  font-style: oblique;
+  font-family: monospace;
+  text-align: center;
+  color: limegreen;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+  color: darkgreen;
+}
+
+img.intro {
+  margin: 40px;
+  width: 40%;
+  height: 40%;
+
+}
